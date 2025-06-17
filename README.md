@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Vaishnavi 👋
+
+I'm a rising Junior studying Computer Science at San Jose State University. 
+
+
 
 <!--
 **vaip05/vaip05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
