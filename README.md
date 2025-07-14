@@ -9,7 +9,7 @@ I am a rising Junior studying **Computer Science** at **San Jose State Universit
 - Cybersecurity
 - App Development
 
-📫 Let's connect!  
+## 📫 Let's connect!  
 Feel free to check out my repositories, connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-panchal-27b60026b/), or reach out via vaishnavinpanchal@gmail.com.
 
 
