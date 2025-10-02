@@ -2,7 +2,7 @@
 
 I am a rising Junior studying **Computer Science** at **San Jose State University**. As an aspiring software engineer, I’m passionate about both the practical and theoretical aspects of computing. I’m organized, collaborative, and value the perspectives of all, skills I’ve honed through various hands-on roles. 
 
-💡 Currently, I’m a **Micro-intern at Google Cloud**, where I’m gaining hands-on experience in developing an Agent-based Root Cause Analysis system.
+💡 Previously, I was a **Micro-intern at Google Cloud**, where I gained hands-on experience in developing an Agent-based Root Cause Analysis system.
 
 ## 🌱 I'm currently interested in 
 - Machine Learning & AI
