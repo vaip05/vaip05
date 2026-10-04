@@ -42,7 +42,7 @@
 
 ## ✦ about me
 
-I'm **Vaishnavi**, a senior studying Computer Science student at **San Jose State University** who enjoys turning complex problems into useful, understandable products. I like working at the intersection of software engineering and intelligent systems. My favorite projects are the ones that require both technical problem-solving and thoughtful user experience decisions.
+I'm **Vaishnavi**, a senior studying Computer Science at **San Jose State University** who enjoys turning complex problems into useful, understandable products. I like working at the intersection of software engineering and intelligent systems. My favorite projects are the ones that require both technical problem-solving and thoughtful user experience decisions.
 
 I’m especially interested in:
 
