@@ -39,19 +39,6 @@
 
 </div>
 
-## 🎞️ photobooth strip
-
-<div align="center">
-
-| 📷 | 📷 | 📷 |
-|:---:|:---:|:---:|
-| 👩🏻‍💻 | 🧠 | 🍵 |
-| coding | learning | recharging |
-
-> currently developing ideas that combine thoughtful design, intelligent systems, and practical impact.
-
-</div>
-
 ---
 
 ## ✦ about me
@@ -167,71 +154,21 @@ I worked on EEG-based brain-computer interface systems involving signal processi
 
 ---
 
-## 📸 projects in the booth
-
-<details>
-<summary>🌼 MindBloom</summary>
-
-<br>
-
-A mental wellness web application designed to help users track their mood, practice breathing exercises, view progress trends, and receive personalized wellness suggestions.
-
-**Stack:** React, Vite, Tailwind CSS, Firebase Authentication, Cloud Firestore, Recharts, and Vercel.
-
-</details>
-
-<details>
-<summary>🤖 Agentic AI Security System</summary>
-
-<br>
-
-A microservice-based system designed to automate GCP support and security checks through agent-based workflows.
-
-</details>
-
-<details>
-<summary>👁️ Computer Vision Research</summary>
-
-<br>
-
-An object detection project focused on improving model reliability across synthetic and real-world datasets.
-
-</details>
-
----
 
 ## 🎯 currently focusing on
 
 ```text
-[████████████████░░░░] building thoughtful software
-[██████████████░░░░░░] learning more about AI systems
-[████████████░░░░░░░░] exploring cloud architecture
-[██████████████████░░] drinking enough matcha
+[██████████████████░░] building thoughtful software
+[██████████████████░░] learning more about AI systems
+[██████████████████░░] exploring cloud architecture
+[████████████████████] drinking enough matcha
 ```
-
----
-
-## 📊 github snapshots
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaip05&show_icons=true&hide_border=true&bg_color=fffaf5&title_color=5c5470&icon_color=ffafcc&text_color=5c5470" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaip05&layout=compact&hide_border=true&bg_color=fffaf5&title_color=5c5470&text_color=5c5470" />
-
-</div>
 
 ---
 
 <div align="center">
 
 ### thanks for stopping by ˚ ༘♡ ⋆｡˚
-
-<img src="https://komarev.com/ghpvc/?username=vaip05&color=ffafcc&style=flat-square&label=profile+visits" />
-
-<br>
-
-`made with curiosity, clean code, and a little matcha 🍵`
 
 </div>
 ```
