@@ -1,7 +1,8 @@
 <p align="center">
   <img src="toro-header.jpg" alt="Cute Toro cat header" width="100%">
 </p>
-# Hi, I'm Vaishnavi 👋
+
+# Hello! I'm Vaishnavi ✨
 
 I’m a senior studying Computer Science at **San José State University** who enjoys building software that makes complex systems easier to understand, use, and improve.
 
