@@ -43,7 +43,7 @@
 
 ## ✦ about me
 
-I'm **Vaishnavi**, a senior studying Computer Science student at **San Jose State University** who enjoys turning complex problems into useful, understandable products.
+I'm **Vaishnavi**, a senior studying Computer Science student at **San Jose State University** who enjoys turning complex problems into useful, understandable products. I like working at the intersection of software engineering and intelligent systems. My favorite projects are the ones that require both technical problem-solving and thoughtful user experience decisions.
 
 I’m especially interested in:
 
@@ -54,16 +54,7 @@ I’m especially interested in:
 - Human-centered product design
 - Product Management
 
-<details>
-<summary>🌱 a little more about me</summary>
-
-<br>
-
-I like working at the intersection of software engineering and intelligent systems. My favorite projects are the ones that require both technical problem-solving and thoughtful user experience decisions.
-
 Outside of coding, I enjoy discovering new matcha spots, learning about emerging technologies, and collaborating with people who are excited to build meaningful things.
-
-</details>
 
 ---
 
@@ -169,62 +160,5 @@ I worked on EEG-based brain-computer interface systems involving signal processi
 <div align="center">
 
 ### thanks for stopping by ˚ ༘♡ ⋆｡˚
-
-## 🎮 welcome to the matcha photobooth
-
-<details>
-<summary>✨ click here to start the game</summary>
-
-<br>
-
-### Choose your mystery matcha:
-
-<details>
-<summary>🍓 Pink matcha</summary>
-
-<br>
-
-You got **Strawberry Matcha!** 🍓  
-You are creative, energetic, and always bringing fresh ideas.
-
-</details>
-
-<br>
-
-<details>
-<summary>🌿 Green matcha</summary>
-
-<br>
-
-You got **Classic Matcha!** 🍵  
-You are focused, thoughtful, and quietly determined.
-
-</details>
-
-<br>
-
-<details>
-<summary>💜 Purple matcha</summary>
-
-<br>
-
-You got **Lavender Matcha!** 🌸  
-You are calm, imaginative, and probably have excellent playlists.
-
-</details>
-
-<br>
-
-<details>
-<summary>🥭 Yellow matcha</summary>
-
-<br>
-
-You got **Mango Matcha!** 🥭  
-You are adventurous, curious, and always ready to try something new.
-
-</details>
-
-</details>
 
 </div>
