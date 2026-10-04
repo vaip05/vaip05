@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/toro-header.png" alt="Cute Toro cat header" width="100%">
+  <img src="toro-header.jpg" alt="Cute Toro cat header" width="100%">
 </p>
 # Hi, I'm Vaishnavi 👋
 
