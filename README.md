@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✦ hi, I'm Vaishnavi ✦
+# ✦ hi, i'm Vaishnavi ✦
 
 ### aspiring software engineer · AI/ML explorer · matcha enthusiast
 
