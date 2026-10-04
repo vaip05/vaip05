@@ -170,4 +170,61 @@ I worked on EEG-based brain-computer interface systems involving signal processi
 
 ### thanks for stopping by ˚ ༘♡ ⋆｡˚
 
+## 🎮 welcome to the matcha photobooth
+
+<details>
+<summary>✨ click here to start the game</summary>
+
+<br>
+
+### Choose your mystery matcha:
+
+<details>
+<summary>🍓 Pink matcha</summary>
+
+<br>
+
+You got **Strawberry Matcha!** 🍓  
+You are creative, energetic, and always bringing fresh ideas.
+
+</details>
+
+<br>
+
+<details>
+<summary>🌿 Green matcha</summary>
+
+<br>
+
+You got **Classic Matcha!** 🍵  
+You are focused, thoughtful, and quietly determined.
+
+</details>
+
+<br>
+
+<details>
+<summary>💜 Purple matcha</summary>
+
+<br>
+
+You got **Lavender Matcha!** 🌸  
+You are calm, imaginative, and probably have excellent playlists.
+
+</details>
+
+<br>
+
+<details>
+<summary>🥭 Yellow matcha</summary>
+
+<br>
+
+You got **Mango Matcha!** 🥭  
+You are adventurous, curious, and always ready to try something new.
+
+</details>
+
+</details>
+
 </div>
