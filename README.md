@@ -1,29 +1,55 @@
-## Hi, I'm Vaishnavi 👋
+# Hi, I'm Vaishnavi 👋
 
-I am a  Junior studying **Computer Science** at **San Jose State University**. As an aspiring software engineer, I’m passionate about both the practical and theoretical aspects of computing. I’m organized, collaborative, and value the perspectives of all, skills I’ve honed through various hands-on roles. 
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠻⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡶⢤⡀⠀⠀⠀⢀⡇⡄⠈⢳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢠⡇⡄⢙⢦⣀⣀⣼⠁⠂⠀⠀⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⡇⡇⠀⠁⡍⠁⠀⠀⠈⠁⠂⠀⢈⠳⡄⠀⠀⠀⠀⠀⠀
+⠀⠰⡇⢀⠀⡐⠁⠀⠀⠀⠀⠀⢀⡴⣋⡄⠹⣆⠀⠀⠀⠀⠀
+⠀⠀⣗⠈⢅⣀⣀⣀⡀⠀⠀⠀⠛⠛⠤⠤⠤⡸⣆⣠⠟⢲⡄
+⠀⠀⣿⠀⠰⠒⣺⠟⠁⢀⣠⠤⠶⡄⡁⠀⢀⠆⢹⠁⣠⠞⠁
+⠀⠀⢻⡀⢀⠞⠑⠒⢄⢣⡀⠀⠀⡇⠈⠉⠀⣠⣾⡜⠃⠀⠀
+⢀⣤⣼⣇⠈⠠⠤⠄⠊⠀⠑⠤⢠⣃⣠⠴⢛⡿⠋⠀⠀⠀⠀
+⠸⢤⣄⣈⡓⡦⠤⠤⠤⠴⠖⠚⠋⠉⠀⢸⡍⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠉⠉⠛⠛⠒⢷⠀⠀⠀⠀⠀⠀⢷⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⡃⠀⠀⠀⠀⠀⠘⡃⠀⠀⠀⠀⠀
 
-💡 Previously, I was a **Micro-intern at Google Cloud**, where I gained hands-on experience in developing an Agent-based Root Cause Analysis system.
+```
 
-## 🌱 I'm currently interested in 
-- Machine Learning & AI
-- Cybersecurity
-- App Development
+I’m a senior studying Computer Science at **San José State University** who enjoys building software that makes complex systems easier to understand, use, and improve.
 
-## 📫 Let's connect!  
-Feel free to check out my repositories, connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-panchal-27b60026b/), or reach out via vaishnavinpanchal@gmail.com.
+My experience has given me the opportunity to work across full-stack engineering, artificial intelligence, and research. I’m particularly interested in the space between intelligent systems and practical software—building tools that are not only technically capable, but also reliable and useful to the people who depend on them.
 
+## 🚀 What I’m Working Toward
 
-<!--
-**vaip05/vaip05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building scalable full-stack applications
+- Exploring agentic AI and developer tools
+- Designing reliable cloud-based systems
+- Applying machine learning to real-world problems
+- Creating technology that is intuitive and human-centered
 
-Here are some ideas to get you started:
+## 💼 Recent Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### LaunchDarkly — Full Stack Software Engineering Intern
+
+At LaunchDarkly, I worked on an AI-powered Jira integration for the Vega Agent. I built workflows that connected observability data, automated alerts, and issue-tracking tools so engineering teams could document investigations and manage remediation more efficiently. I also worked with RBAC, HMAC-signed requests, Amazon Cognito, Datadog, ClickHouse, and Atlassian Forge.
+
+### Google Cloud — Agentic AI Intern
+
+At Google Cloud, I designed a microservice-based agentic AI system that automated support and security checks across more than 25 GCP products. This experience strengthened my interest in distributed systems, cloud architecture, and building AI systems that can assist with complex technical workflows.
+
+## 🔬 Other Areas I’ve Explored
+
+- Computer vision and object detection through an AI/ML fellowship
+- EEG-based brain-computer interfaces and real-time mental-state classification
+- Python-based data processing and machine learning pipelines
+- Cloud services, cybersecurity, and software observability
+
+This profile is a collection of projects, experiments, and ideas I’ve worked on while continuing to grow as a software engineer.
+
+## 📫 Let’s Connect
+
+I’m always open to learning from others, collaborating on interesting projects, and discussing software, AI, or emerging technology.
+
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi-panchal-27b60026b/)
+- [Email](mailto:vaishnavinpanchal@gmail.com)
